@@ -2,11 +2,11 @@
 $nama = "Dimas";
 $jamker = "150";
 $kerja = "200";
-$jamlembur = $kerja - $lembur
+$jamlembur = "$kerja - $lembur";
 $gol = "D";
 switch ($gol) {
     case 'A'
-        $upah= 5000;
+        $upah= 5000
         break;
      case 'B'
         $upah= 6000
@@ -16,7 +16,7 @@ switch ($gol) {
         break;
     
     default:
-        $upah = 9000;
+        $upah = 9000
         break;
 }
 if ($kerja > 150) {

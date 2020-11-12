@@ -6,7 +6,7 @@ $anak =	3;
 $tg = 3;
 
 
-if ($anak) {
+if ($nama) {
 	echo "Nama : Ahmad";
  }
  
